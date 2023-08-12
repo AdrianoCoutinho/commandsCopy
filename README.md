@@ -14,7 +14,8 @@ Rodar sql e criar tabelas banco
 
 npm run migration:run
 
-***********************************
-As generates de migrations não são muito confiaveis, elas não adicionam Cascade mesmo tenho a informação setada na entidade
+---
+
+As generates de migrations não são muito confiaveis, elas não adicionam Cascade mesmo tenho a informação setada na entidade.
 
 |------------------------------|
